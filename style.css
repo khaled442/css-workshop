@@ -1,0 +1,41 @@
+#navbar{
+    display: inline ;
+   
+}
+#Home{
+    position: relative;
+    border: 3px solid red;
+}
+#bar {
+    text-align: center;
+    border: 1px solid red;
+    color: blue;
+}
+h3{
+    color: blue;
+}
+h1{
+    color: blue;
+}
+#khaled {
+    border: 3px solid rgb(200 120 20);
+	margin-left:500px;
+    	
+}
+body{
+    border: 5px inset #fff;
+    background-color: rgb( 180 280 280);
+    background: url(https://images.unsplash.com/photo-1542546068979-b6affb46ea8f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
+    background-size: 100% 100% ;
+}
+#vid{
+    margin-left:50px;
+}
+#Resume{
+    text-align: center;
+    border: 2px solid red;
+
+}
+#work{
+    border: 2px solid red;
+}
